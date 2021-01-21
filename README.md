@@ -9,3 +9,5 @@ There are 3 open-source code notebooks available on Deep Learning:
 4. Traffic Signs Image Classification using Deep Learning (Convolutional Neural Network / CNN).
 
 Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle)
+
+`All notebooks show improvement in performance over many other implementations (excluding state-of-the-art), and can be run on commodity or readily available hardware.`
