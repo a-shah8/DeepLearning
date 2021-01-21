@@ -7,3 +7,5 @@ There are 3 open-source code notebooks available on Deep Learning:
 2. Image Classification using Deep Learning on Fashion-MNIST dataset (Convolutional Neural Network / CNN).
 3. Binary Classification on Pima-Indian-Diabetes dataset (Deep Neural Network / DNN).
 4. Traffic Signs Image Classification using Deep Learning (Convolutional Neural Network / CNN).
+
+Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle)
