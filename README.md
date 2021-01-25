@@ -1,4 +1,7 @@
 # DeepLearning
+
+(I request you to create a fork of this repo and submit request to add your improvements to any of these models so that I can update my models too, thereby contributing to the Deep Learning community by providing the latest info.)
+
 This repo contains information, details and files such as code files related to Deep Learning.
 
 There are 5 open-source code notebooks available on Deep Learning:
@@ -16,5 +19,3 @@ Transfer Learning notebooks available in the 'Transfer Learning' directory:
 Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle; 5, (6): Available at TensorFlow datasets)
 
 `All notebooks show improvement in performance over many other implementations (excluding state-of-the-art), and can be run on commodity or readily available hardware.`
-
-I also request you to create a fork of this repo and submit request to add your improvements to any of these models so that I can update my models too, thereby contributing to the Deep Learning community by providing the latest info.
