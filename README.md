@@ -1,6 +1,6 @@
 # DeepLearning
 
-(I request you to create a fork of this repo and submit request to add your improvements to any of these models so that I can update my models too, thereby contributing to the Deep Learning community by providing the latest info.)
+(I request the users to create a fork of this repo and submit request to add their improvements to any of these models so that I can update my models too, thereby contributing to the Deep Learning community by providing the latest info.)
 
 This repo contains information, details and files such as code files related to Deep Learning.
 
