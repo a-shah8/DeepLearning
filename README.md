@@ -9,7 +9,11 @@ There are 5 open-source code notebooks available on Deep Learning:
 4. Traffic Signs Image Classification using Deep Learning (Convolutional Neural Network / CNN).
 5. Flowers Classification using Deep Learning (Convolutional Neural Network / CNN).
 
-Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle; 5: Available at TensorFlow datasets)
+Transfer Learning notebooks available in the 'Transfer Learning' directory:
+
+1. (6). Flowers Classification using Deep Learning (Convolutional Neural Network / CNN).
+
+Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle; 5, (6): Available at TensorFlow datasets)
 
 `All notebooks show improvement in performance over many other implementations (excluding state-of-the-art), and can be run on commodity or readily available hardware.`
 
