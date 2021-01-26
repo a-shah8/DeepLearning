@@ -4,7 +4,7 @@
 
 This repo contains information, details and files such as code files related to Deep Learning.
 
-There are 5 open-source code notebooks available on Deep Learning:
+There are 7 open-source code notebooks available on Deep Learning:
 
 1. Digits Recognition using Deep Learning on MNIST dataset (Convolutional Neural Network / CNN).
 2. Image Classification using Deep Learning on Fashion-MNIST dataset (Convolutional Neural Network / CNN).
@@ -14,8 +14,9 @@ There are 5 open-source code notebooks available on Deep Learning:
 
 Transfer Learning notebooks available in the 'Transfer Learning' directory:
 
-1. (6). Flowers Classification using Deep Learning (Convolutional Neural Network / CNN).
+1. (6). Flowers Classification using Deep Learning - MobileNet (Convolutional Neural Network / CNN).
+2. (7). Flowers Classification using Deep Learning - InceptionV3 (Convolutional Neural Network / CNN).
 
-Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle; 5, (6): Available at TensorFlow datasets)
+Sources of dataset (1, 2: MNIST dataset; 3, 4: Available on Kaggle; 5, (6), (7): Available at TensorFlow datasets)
 
 `All notebooks show improvement in performance over many other implementations (excluding state-of-the-art), and can be run on commodity or readily available hardware.`
