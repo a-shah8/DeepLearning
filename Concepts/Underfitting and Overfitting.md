@@ -12,4 +12,4 @@
 
 _This is as simple as it can get._
 
-_I recommend the readers to google 'Unfitting' and 'Overfitting' and read the most appropriate articles to understand more._
+_I recommend the readers to google 'Unfitting' and 'Overfitting', and read the most appropriate articles to understand more._
